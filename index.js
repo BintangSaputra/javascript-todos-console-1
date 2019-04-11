@@ -65,3 +65,14 @@ const addedNewObject = param => {
 };
 
 console.log(addedNewObject(newObjectSkill(input1, input2, input3)));
+
+// Delete Function(kata sarah barengan gara2 asynchronous)
+
+// const deleteObject = objects => {
+//   objects.splice(objects.length - 1, 1);
+
+//   alert("delete one todo succeed");
+//   return bisaJava;
+// };
+
+// console.log(deleteObject(bisaJava));
