@@ -55,7 +55,7 @@ const newObjectSkill = (objectiveParam, statusParam, progressParam) => {
 // console.log(newObjectSkill(input1, input2, input3));
 
 /* 
-3. 
+3. masukkan objek baru ke dalam bisaJava cuk!
 */
 
 const addedNewObject = param => {
